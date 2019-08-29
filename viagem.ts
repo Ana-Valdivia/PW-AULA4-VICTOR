@@ -4,6 +4,7 @@ class Viagem{
     
     distancia():number{
             return (this.tempogasto * this.velomedia)
+        
 
     }
 
@@ -13,3 +14,4 @@ class Viagem{
     }
 
     }
+
